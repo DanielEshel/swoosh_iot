@@ -1,0 +1,1 @@
+this is the swoosh iot code base using an esp 32, servo motor and controller that i dont remember their names yet ;) connecting via bluetooth to the swoosh tennis app and maybe uploading to the swoosh firebase as I think I'll have to in this project requirements.
